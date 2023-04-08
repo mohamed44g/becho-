@@ -832,4 +832,7 @@ footer .footer-text h6 {
     -webkit-transform: translateY(-30%);
             transform: translateY(-30%);
   }
+   .featrues .featrues-card{
+    width: 243px;
+  }
 }
